@@ -13,7 +13,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Promo"
-        android:textColor="@color/black"/>
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
 
     <Button
         android:id="@+id/button1"
@@ -21,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:background="#5252C1"
-        android:text="Take Away Fest Harga: Rp54.545"
+        android:text="Promo KFC Take Away Fest Harga: Rp54.545"
         android:textColor="#F3E5F5" />
 
 </LinearLayout>
